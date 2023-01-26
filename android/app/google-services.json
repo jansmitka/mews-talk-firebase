@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548167490654",
+    "project_id": "mews-firebase-example",
+    "storage_bucket": "mews-firebase-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548167490654:android:180f972937a76840cba8cf",
+        "android_client_info": {
+          "package_name": "com.example.mews_talk_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548167490654-s8lksb0ih520jo709nmdtso3hf22nddf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZTHQO3xK-moDMiQaTdouGbOM6kyYALE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548167490654-s8lksb0ih520jo709nmdtso3hf22nddf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
